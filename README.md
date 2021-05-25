@@ -8,4 +8,5 @@ Pequenos projetos em Python sobre o primeiro semestre do curso de Estatística n
 [Ian Bernucci](https://github.com/ianbernucci), IME-USP  
 [Julia de Lima](https://github.com/julia-limaa), IME-USP  
 [Michel Macário](https://github.com/MichelExcel), IME-USP  
-[Rafael Sillas](https://github.com/rafasillas), IME-USP
+[Rafael Sillas](https://github.com/rafasillas), IME-USP  
+[Joao Passos](https://github.com/joaovpassos), IME-USP  
